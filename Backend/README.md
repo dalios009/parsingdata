@@ -23,8 +23,8 @@ BeautifulSoup4
 Клонировать репозиторий:
 
 1. 
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/dalios009/parsingdata/tree
+cd parsingdata
 Установить зависимости фронтенда:
 
 2.
